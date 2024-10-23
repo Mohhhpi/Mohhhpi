@@ -1,0 +1,19 @@
+{
+  "address": "0:1371473af6c19208231269db1550a746c0cd4130a4be1ca09618f93ad3164683",
+  "name": "TON FISH MEMECOIN",
+  "symbol": "FISH",
+  "decimals": "9",
+  "image": "https://cache.tonapi.io/imgproxy/64G--D3N6KARJulIFT18L3fSWk-6ZtXPBWDG_vZl9i8/rs:fill:200:200:1/g:no/aHR0cHM6Ly93d3cudG9uZmlzaC5pby9CTFVFQ09JTjIucG5n.webp",
+  "description": "FISH is a meme token inspired by $PEPE. FISH aims to become the representative meme token of the TON ecosystem. It's just a fun token that doesn't guarantee any value, but that's why it has no limits."
+} 👋 Hi, I’m @Mohhhpi
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Mohhhpi/Mohhhpi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
